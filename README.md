@@ -1,1 +1,1 @@
-# pinterest-bot
+pinterest-telegram-bot
